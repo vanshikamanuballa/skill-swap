@@ -1,0 +1,12 @@
+{
+  "name": "signup-project-root",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix skill-swap",
+    "backend": "npm run dev --prefix skill-swap/backend"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "react-router-dom": "^7.15.1"
+  }
+}
